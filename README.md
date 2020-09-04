@@ -1,2 +1,10 @@
-# docker_images_helper
-docker images helper
+# docker_images_helper (docker镜像批量处理助手)
+## 功能
+- 支持批量保存镜像至本地
+- 支持批量加载本地镜像到本地主机
+- 支持批量给镜像打标签
+- 支持批量上传镜像到指定的镜像仓库
+- 支持批量删除指定的镜像
+## todo
+- go版本
+- python2.7版本
